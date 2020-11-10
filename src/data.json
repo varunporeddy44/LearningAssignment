@@ -1,42 +1,262 @@
 [
     {
-        "keyword":"Expensive",
+        "keyword":"Location",
         "count":30
     },
     {
-        "keyword":"Bad",
+        "keyword":"city centre",
         "count":12
     },
     {
-        "keyword":"Service",
+        "keyword":" easy commute or proximity to work",
         "count":15
     },
     {
-        "keyword":"Notorious",
-        "count":23
+        "keyword":"access to basic and emergency services",
+        "count":16
     },
     {
-        "keyword":"Happy",
-        "count":40
+        "keyword":"Type of city",
+        "count":30
     },
     {
-        "keyword":"Locality",
-        "count":34
+        "keyword":"Proximity to amenities",
+        "count":24
     },
     {
-        "keyword":"Birthdate",
+        "keyword":"Swimming pool",
         "count":18
     },
     {
-        "keyword":"Workspace",
-        "count":75
+        "keyword":"Sports complex",
+        "count":25
     },
     {
-        "keyword":"Meeting",
+        "keyword":"Ground and garden",
         "count":27
     },
     {
-        "keyword":"Creation",
-        "count":50
+        "keyword":"Fitness Complex like GYM",
+        "count":20
+    },
+    {
+        "keyword":"Appearance or aesthetics",
+        "count":20
+    },
+    {
+        "keyword":"Outside view of building or appartment",
+        "count":18
+    },
+    {
+        "keyword":"Asthetically Appealing layout",
+        "count":22
+    },
+    {
+        "keyword":"building quality",
+        "count":27
+    },
+    {
+        "keyword":"Colour",
+        "count":13
+    },
+    {
+        "keyword":"Building design",
+        "count":19
+    },
+    {
+        "keyword":"Area",
+        "count":28
+    },
+    {
+        "keyword":"Bulding Area",
+        "count":23
+    },
+    {
+        "keyword":"Land Area",
+        "count":26
+    },
+    {
+        "keyword":"Area of rooms",
+        "count":21
+    },
+    {
+        "keyword":"Area of Appartment or society",
+        "count":14
+    },
+    {
+        "keyword":"Price",
+        "count":30
+    },
+    {
+        "keyword":"affordable down payment interest rate",
+        "count":10
+    },
+    {
+        "keyword":"payment period",
+        "count":20
+    },
+    {
+        "keyword":"Availabity of loan",
+        "count":21
+    },
+    {
+        "keyword":"Budget constraints",
+        "count":23
+    },
+    {
+        "keyword":"Maintaince cost",
+        "count":18
+    },
+    {
+        "keyword":"Legal documentation fees",
+        "count":16
+    },
+    {
+        "keyword":"Taxes",
+        "count":29
+    },
+    {
+        "keyword":"View from house",
+        "count":18
+    },
+    {
+        "keyword":"Lake side view",
+        "count":15
+    },
+    {
+        "keyword":"Sea Side view",
+        "count":20
+    },
+    {
+        "keyword":"Sunset or sunrise",
+        "count":17
+    },
+    {
+        "keyword":"Sunfacing",
+        "count":24
+    },
+    {
+        "keyword":"Garden or ambient greenery",
+        "count":12
+    },
+    {
+        "keyword":"Top of city view",
+        "count":18
+    },
+    {
+        "keyword":"Mountain View",
+        "count":24
+    },
+    {
+        "keyword":"Interior",
+        "count":29
+    },
+    {
+        "keyword":"architecture of rooms hall kitchen",
+        "count":13
+    },
+    {
+        "keyword":"Layout",
+        "count":27
+    },
+    {
+        "keyword":"Design",
+        "count":29
+    },
+    {
+        "keyword":"types of rooms",
+        "count":19
+    },
+    {
+        "keyword":"Balcony size",
+        "count":16
+    },
+    {
+        "keyword":"Size of rooms Hall and Kitchen etc",
+        "count":11
+    },
+    {
+        "keyword":"Vastu compliance",
+        "count":19
+    },
+    {
+        "keyword":"Developer’s reputation",
+        "count":25
+    },
+    {
+        "keyword":"Basic Facalities",
+        "count":20
+    },
+    {
+        "keyword":"Accessible garage",
+        "count":17
+    },
+    {
+        "keyword":"Fire resistant",
+        "count":23
+    },
+    {
+        "keyword":"Power supply",
+        "count":18
+    },
+    {
+        "keyword":"Water supply",
+        "count":14
+    },
+    {
+        "keyword":"Security",
+        "count":26
+    },
+    {
+        "keyword":"Return on investments",
+        "count":13
+    },
+    {
+        "keyword":"Personal Factors",
+        "count":22
+    },
+    {
+        "keyword":"Human Lifestyle",
+        "count":25
+    },
+    {
+        "keyword":"Experiences",
+        "count":20
+    },
+    {
+        "keyword":"Relationships",
+        "count":15
+    },
+    {
+        "keyword":"Hopes",
+        "count":28
+    },
+    {
+        "keyword":"Whishes",
+        "count":26
+    },
+    {
+        "keyword":"Expectations",
+        "count":22
+    },
+    {
+        "keyword":"Kinship",
+        "count":30
+    },
+    {
+        "keyword":"Demographic Charactersticks",
+        "count":15
+    },
+    {
+        "keyword":"Mean Age",
+        "count":28
+    },
+    {
+        "keyword":"Education Level",
+        "count":22
+    },
+    {
+        "keyword":"Religion",
+        "count":27
     }
 ]

@@ -3,7 +3,7 @@ import './App.css';
 import Data from "./data.json"
 
 function App(){
-  const colors=["red","blue","orange","green","grey","yellow"]
+  const colors=["red","blue","orange","green","grey","yellow","indigo","black"]
   var n=0
   var a=0
   return(
@@ -19,7 +19,6 @@ function App(){
           ?colors[i-(n*colors.length)]
           :colors[i]
         }}
-        onClick={()=>{alert(n)}}
         key={i}>{post.keyword}</div>
         )
       })}
