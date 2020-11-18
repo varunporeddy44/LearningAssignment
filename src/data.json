@@ -1,262 +1,262 @@
 [
     {
-        "keyword":"Location",
-        "count":30
+        "text":"Location",
+        "value":30
     },
     {
-        "keyword":"city centre",
-        "count":12
+        "text":"city centre",
+        "value":12
     },
     {
-        "keyword":" easy commute or proximity to work",
-        "count":15
+        "text":"easy commute or proximity to work",
+        "value":15
     },
     {
-        "keyword":"access to basic and emergency services",
-        "count":16
+        "text":"access to basic and emergency services",
+        "value":16
     },
     {
-        "keyword":"Type of city",
-        "count":30
+        "text":"Type of city",
+        "value":30
     },
     {
-        "keyword":"Proximity to amenities",
-        "count":24
+        "text":"Proximity to amenities",
+        "value":24
     },
     {
-        "keyword":"Swimming pool",
-        "count":18
+        "text":"Swimming pool",
+        "value":18
     },
     {
-        "keyword":"Sports complex",
-        "count":25
+        "text":"Sports complex",
+        "value":25
     },
     {
-        "keyword":"Ground and garden",
-        "count":27
+        "text":"Ground and garden",
+        "value":27
     },
     {
-        "keyword":"Fitness Complex like GYM",
-        "count":20
+        "text":"Fitness Complex like GYM",
+        "value":20
     },
     {
-        "keyword":"Appearance or aesthetics",
-        "count":20
+        "text":"Appearance or aesthetics",
+        "value":20
     },
     {
-        "keyword":"Outside view of building or appartment",
-        "count":18
+        "text":"Outside view of building or appartment",
+        "value":18
     },
     {
-        "keyword":"Asthetically Appealing layout",
-        "count":22
+        "text":"Asthetically Appealing layout",
+        "value":22
     },
     {
-        "keyword":"building quality",
-        "count":27
+        "text":"building quality",
+        "value":27
     },
     {
-        "keyword":"Colour",
-        "count":13
+        "text":"Colour",
+        "value":13
     },
     {
-        "keyword":"Building design",
-        "count":19
+        "text":"Building design",
+        "value":19
     },
     {
-        "keyword":"Area",
-        "count":28
+        "text":"Area",
+        "value":28
     },
     {
-        "keyword":"Bulding Area",
-        "count":23
+        "text":"Bulding Area",
+        "value":23
     },
     {
-        "keyword":"Land Area",
-        "count":26
+        "text":"Land Area",
+        "value":26
     },
     {
-        "keyword":"Area of rooms",
-        "count":21
+        "text":"Area of rooms",
+        "value":21
     },
     {
-        "keyword":"Area of Appartment or society",
-        "count":14
+        "text":"Area of Appartment or society",
+        "value":14
     },
     {
-        "keyword":"Price",
-        "count":30
+        "text":"Price",
+        "value":30
     },
     {
-        "keyword":"affordable down payment interest rate",
-        "count":10
+        "text":"affordable down payment interest rate",
+        "value":10
     },
     {
-        "keyword":"payment period",
-        "count":20
+        "text":"payment period",
+        "value":20
     },
     {
-        "keyword":"Availabity of loan",
-        "count":21
+        "text":"Availabity of loan",
+        "value":21
     },
     {
-        "keyword":"Budget constraints",
-        "count":23
+        "text":"Budget constraints",
+        "value":23
     },
     {
-        "keyword":"Maintaince cost",
-        "count":18
+        "text":"Maintaince cost",
+        "value":18
     },
     {
-        "keyword":"Legal documentation fees",
-        "count":16
+        "text":"Legal documentation fees",
+        "value":16
     },
     {
-        "keyword":"Taxes",
-        "count":29
+        "text":"Taxes",
+        "value":29
     },
     {
-        "keyword":"View from house",
-        "count":18
+        "text":"View from house",
+        "value":18
     },
     {
-        "keyword":"Lake side view",
-        "count":15
+        "text":"Lake side view",
+        "value":15
     },
     {
-        "keyword":"Sea Side view",
-        "count":20
+        "text":"Sea Side view",
+        "value":20
     },
     {
-        "keyword":"Sunset or sunrise",
-        "count":17
+        "text":"Sunset or sunrise",
+        "value":17
     },
     {
-        "keyword":"Sunfacing",
-        "count":24
+        "text":"Sunfacing",
+        "value":24
     },
     {
-        "keyword":"Garden or ambient greenery",
-        "count":12
+        "text":"Garden or ambient greenery",
+        "value":12
     },
     {
-        "keyword":"Top of city view",
-        "count":18
+        "text":"Top of city view",
+        "value":18
     },
     {
-        "keyword":"Mountain View",
-        "count":24
+        "text":"Mountain View",
+        "value":24
     },
     {
-        "keyword":"Interior",
-        "count":29
+        "text":"Interior",
+        "value":29
     },
     {
-        "keyword":"architecture of rooms hall kitchen",
-        "count":13
+        "text":"architecture of rooms hall kitchen",
+        "value":13
     },
     {
-        "keyword":"Layout",
-        "count":27
+        "text":"Layout",
+        "value":27
     },
     {
-        "keyword":"Design",
-        "count":29
+        "text":"Design",
+        "value":29
     },
     {
-        "keyword":"types of rooms",
-        "count":19
+        "text":"types of rooms",
+        "value":19
     },
     {
-        "keyword":"Balcony size",
-        "count":16
+        "text":"Balcony size",
+        "value":16
     },
     {
-        "keyword":"Size of rooms Hall and Kitchen etc",
-        "count":11
+        "text":"Size of rooms Hall and Kitchen etc",
+        "value":11
     },
     {
-        "keyword":"Vastu compliance",
-        "count":19
+        "text":"Vastu compliance",
+        "value":19
     },
     {
-        "keyword":"Developer’s reputation",
-        "count":25
+        "text":"Developer’s reputation",
+        "value":25
     },
     {
-        "keyword":"Basic Facalities",
-        "count":20
+        "text":"Basic Facalities",
+        "value":20
     },
     {
-        "keyword":"Accessible garage",
-        "count":17
+        "text":"Accessible garage",
+        "value":17
     },
     {
-        "keyword":"Fire resistant",
-        "count":23
+        "text":"Fire resistant",
+        "value":23
     },
     {
-        "keyword":"Power supply",
-        "count":18
+        "text":"Power supply",
+        "value":18
     },
     {
-        "keyword":"Water supply",
-        "count":14
+        "text":"Water supply",
+        "value":14
     },
     {
-        "keyword":"Security",
-        "count":26
+        "text":"Security",
+        "value":26
     },
     {
-        "keyword":"Return on investments",
-        "count":13
+        "text":"Return on investments",
+        "value":13
     },
     {
-        "keyword":"Personal Factors",
-        "count":22
+        "text":"Personal Factors",
+        "value":22
     },
     {
-        "keyword":"Human Lifestyle",
-        "count":25
+        "text":"Human Lifestyle",
+        "value":25
     },
     {
-        "keyword":"Experiences",
-        "count":20
+        "text":"Experiences",
+        "value":20
     },
     {
-        "keyword":"Relationships",
-        "count":15
+        "text":"Relationships",
+        "value":15
     },
     {
-        "keyword":"Hopes",
-        "count":28
+        "text":"Hopes",
+        "value":28
     },
     {
-        "keyword":"Whishes",
-        "count":26
+        "text":"Whishes",
+        "value":26
     },
     {
-        "keyword":"Expectations",
-        "count":22
+        "text":"Expectations",
+        "value":22
     },
     {
-        "keyword":"Kinship",
-        "count":30
+        "text":"Kinship",
+        "value":30
     },
     {
-        "keyword":"Demographic Charactersticks",
-        "count":15
+        "text":"Demographic Charactersticks",
+        "value":15
     },
     {
-        "keyword":"Mean Age",
-        "count":28
+        "text":"Mean Age",
+        "value":28
     },
     {
-        "keyword":"Education Level",
-        "count":22
+        "text":"Education Level",
+        "value":22
     },
     {
-        "keyword":"Religion",
-        "count":27
+        "text":"Religion",
+        "value":27
     }
 ]
